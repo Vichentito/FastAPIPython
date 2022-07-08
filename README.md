@@ -3,7 +3,7 @@
 
 # To activate this environment, use
 #
-#     $ conda activate fastapipython
+ conda activate fastapipython
 #
 # To deactivate an active environment, use
 #
